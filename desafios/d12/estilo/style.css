@@ -1,10 +1,6 @@
 @charset "UTF-8";
 
-
-body {
-    background-color:yellow;
-}
-
-h1 {
-    background-color: blue;
-}
+* {
+    margin: 0px;
+    padding: 0px;
+} 
