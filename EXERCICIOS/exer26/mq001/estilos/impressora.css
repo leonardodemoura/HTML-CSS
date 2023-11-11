@@ -23,5 +23,5 @@ article {
 }
 
 article::after {
-    content: 'Esse artigo foi impresso através do site wwww.cursoemvideo.com';
+    content: 'Esse artigo foi impresso através do site wwww.leonardo.com';
 }
